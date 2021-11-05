@@ -1,0 +1,5 @@
+Cel mai scurt cuvant este: mal
+Cel mai lung cuvant este: biblioteca
+Primul cuvant in ordine alfabetica este: animal
+Ultimul cuvant in ordine alfabetica este: zapada
+Numarul total de cuvinte este: 6
